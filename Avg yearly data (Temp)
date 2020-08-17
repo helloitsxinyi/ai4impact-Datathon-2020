@@ -354,31 +354,6 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "###  PUBLIC HOLIDAY POWER CONSUMPTION ###\n",
-    "\n",
-    "ph = [\"phdate1\", \"phdate2\"] etc\n",
-    "# remember to add names to the public holidays\n",
-    "# add in power data\n",
-    "# organize in dataframe and plot accordingly"
-   ]
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "### POWER AND TEMPERATURE CORRELATION GRAPHS ###\n",
-    "\n",
-    "# to see if there is a relation bet temperature & power consumption for weekly & weekday/weekend trends"
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": 7,
    "metadata": {},
    "outputs": [
