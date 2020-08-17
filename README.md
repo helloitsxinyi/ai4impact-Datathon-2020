@@ -16,6 +16,9 @@ Contents:
 
   4. Avg_Year_Data.ipynb: graphs for 2014-2016 average weekly temperature, average daily energy consumption, merged power & temperature data from all 4 weather stations
  
+ 
+ 
+ 
  For a more detailed analysis of our data, methodology and results, check out our Medium article!
  https://medium.com/@cluelesscuriouscoders/energy-demand-forecasting-13e3f43dc4bb
  
